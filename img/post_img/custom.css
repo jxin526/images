@@ -1,7 +1,7 @@
 /*左上角标题字体*/
 @font-face {
     font-family:'jasonfont';
-    src:url('https://cdn.jsdelivr.net/gh/jxin526/images@1.5/img/post_img/jason.ttf'); /* 修改成你的字体 */
+    src:url('https://cdn.jsdelivr.net/gh/jxin526/images@1.0.5/img/post_img/jason.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
