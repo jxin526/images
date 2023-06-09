@@ -1,0 +1,19 @@
+{
+  "name": "sudoxin-images",
+  "version": "1.0.3",
+  "description": "images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxin526/images.git"
+  },
+  "author": "sudoxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxin526/images/issues"
+  },
+  "homepage": "https://github.com/jxin526/images#readme"
+}
